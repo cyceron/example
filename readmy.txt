@@ -1,5 +1,8 @@
 Hello Git
 First Change
 Second Change
+<<<<<<< HEAD
 Another change
 last change
+=======
+>>>>>>> parent of a1dea91... Third Change
