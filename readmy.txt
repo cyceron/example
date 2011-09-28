@@ -1,2 +1,3 @@
 Hello Git
 newFeature
+newfeature_second
